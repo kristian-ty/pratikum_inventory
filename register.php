@@ -37,10 +37,10 @@
         <div class="card card-success card-outline mb-4">
 
             <div class="card-header text-center">
-                <img src="assets/img/matrai-removebg-preview.png" width="80" height="80" alt="icon">
+                <img src="assets/img/JPG2.PNG" width="80" height="80" alt="icon">
                 <h3 class="card-title float-none">
 
-                    PT BAZMA COMPANY
+                    PT Sembako Yanss
                 </h3>
             </div>
 

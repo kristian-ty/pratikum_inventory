@@ -173,17 +173,17 @@ $total_distribusi = $data_distribusi['total_distribusi'];
                        <!--begin::User Menu Dropdown-->
                        <li class="nav-item dropdown user-menu">
                            <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">
-                               <img src="../assets/img/jpg1.jpeg" class="user-image rounded-circle shadow"
+                               <img src="../assets/img/jpg3.jpeg" class="user-image rounded-circle shadow"
                                    alt="User Image" />
                                <span class="d-none d-md-inline">Kristian Perdamaian Pasaribu</span>
                            </a>
                            <ul class="dropdown-menu dropdown-menu-lg dropdown-menu-end">
                                <!--begin::User Image-->
                                <li class="user-header text-bg-primary">
-                                   <img src="../assets/img/jpg1.jpeg" class="rounded-circle shadow"
+                                   <img src="../assets/img/jpg3.jpeg" class="rounded-circle shadow"
                                        alt="User Image" />
                                    <p>
-                                       Kristian perdamaian p - Pengguna
+                                       Kristian perdamaian p - admin
                                        <small>Member since Juni 2026</small>
                                    </p>
                                </li>
